@@ -28,39 +28,35 @@
 <td width="50%">
 
 ### 🏛️ [AI 朝廷](https://github.com/wanikua/boluobobo-ai-court-tutorial)
-用明朝六部制管理 AI Agent 团队。7个 Agent 各司其职，一行命令部署。
+三省六部制 × OpenClaw — 一行命令部署你的 AI 朝廷，7个 Agent 各司其职。
 
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/wanikua/boluobobo-ai-court-tutorial/main/install.sh)
-```
-
-`三省六部` `OpenClaw` `Multi-Agent` `Discord`
+`三省六部` `Multi-Agent` `OpenClaw` `Discord`
 
 </td>
 <td width="50%">
 
-### 🏢 [Become CEO](https://github.com/wanikua/become-ceo)
-英文企业版 — 同一架构，CEO 主题。Your AI executive team.
+### 🎯 [Quadrants](https://github.com/wanikua/quadrants)
+艾森豪威尔矩阵任务管理 — 用四象限法则管理你的待办事项。
 
-`C-Suite` `English` `Enterprise` `OpenClaw`
+`Task Management` `Eisenhower Matrix` `Productivity`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎭 [AI Court Skill](https://github.com/wanikua/ai-court-skill)
-Clawdbot 技能包 — 即装即用的朝廷模块。
+### 🏢 [Become CEO](https://github.com/wanikua/become-ceo)
+AI 朝廷英文企业版 — 同一架构，CEO 主题。Your AI executive team.
 
-`Skill Pack` `Plug & Play`
+`C-Suite` `English` `Enterprise` `OpenClaw`
 
 </td>
 <td width="50%">
 
-### 🍍 [boluobobo.com](https://boluobobo.com)
-菠萝王朝官网 — 项目展示与教程入口。
+### 🎭 [AI Court Skill](https://github.com/wanikua/ai-court-skill)
+Clawdbot 技能包 — 即装即用的朝廷模块。
 
-`Website` `Landing Page`
+`Skill Pack` `Plug & Play`
 
 </td>
 </tr>
