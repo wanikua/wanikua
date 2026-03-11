@@ -71,33 +71,3 @@ Clawdbot 技能包 — 即装即用的朝廷模块。
 <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,nodejs,react,nextjs,tailwind,discord,github,docker,linux,vscode&titles=true" alt="Tech Stack" />
 </p>
-
-## 📊 Activity
-
-<p align="center">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=wanikua&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=wanikua&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Trophies"/>
-</p>
-
-## 🔥 What I'm Working On
-
-- 🏛️ **菠萝王朝** — 14 个 AI Agent 协作运行，日均处理 200万+ tokens
-- 📰 **维权进行中** — [开源项目被抄袭的维权之路](https://github.com/cft0808/edict/issues/55)
-- 📱 **小红书运营** — AI 朝廷推广与社区建设
-- 🌐 **Startup Grind** — 项目国际化推广
-
----
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=80&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-    <b>👑 一行命令，当皇帝。</b><br>
-    <a href="https://github.com/wanikua/boluobobo-ai-court-tutorial">⭐ Star the AI Court</a> · 
-    <a href="https://boluobobo.com">🍍 boluobobo.com</a> · 
-    <a href="https://become-ceo.com">🏢 become-ceo.com</a>
-</p>
