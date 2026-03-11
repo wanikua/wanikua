@@ -8,7 +8,7 @@
     <a href="https://boluobobo.com"><img src="https://img.shields.io/badge/🍍-boluobobo.com-orange" alt="Website" /></a>
 </p>
 
-## 👑 Hey, I'm 王Sir
+## Hey, I'm 菠萝菠菠
 
 > 菠萝王朝皇帝
 
@@ -21,7 +21,7 @@
     <img width="420" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=wanikua&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&ring=E2B714&fire=E2B714&currStreakLabel=E2B714" alt="Streak Stats" />
 </p>
 
-## 🏯 Projects
+## Projects
 
 <table>
 <tr>
