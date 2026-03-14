@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/wanikua"><img src="https://komarev.com/ghpvc/?username=wanikua&label=Profile+Views&color=orange" alt="Profile Views" /></a>
     <a href="https://github.com/wanikua/boluobobo-ai-court-tutorial"><img src="https://img.shields.io/github/stars/wanikua/boluobobo-ai-court-tutorial?style=flat&logo=github&label=AI%20Court%20Stars&color=gold" alt="Stars" /></a>
-    <a href="https://danghuangshang.com"><img src="https://img.shields.io/badge/🍍-boluobobo.com-orange" alt="Website" /></a>
+    <a href="https://danghuangshang.com"><img src="https://img.shields.io/badge/🍍-danghuangshang-orange" alt="Website" /></a>
 </p>
 
 ## Hey, I'm 菠萝菠菠
