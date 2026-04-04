@@ -1,13 +1,16 @@
 ```
-                    🍍
-              ██████████████
-            ██  菠萝王朝  ██
-              ██████████████
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━
-        朕 — 菠萝王朝皇帝也
-        代码如诏，bug 如叛臣，杀不尽也
-        世人以 AI 为仆，朕以 AI 为臣
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                                    🍍
+                              ╔════════════╗
+                              ║  菠萝王朝  ║
+                              ╚════════════╝
+
+                    朕 — 菠萝王朝皇帝也
+                    代码如诏，bug 如叛臣，杀不尽也
+                    世人以 AI 为仆，朕以 AI 为臣
+
+
 ```
 
 <p align="center">
@@ -16,69 +19,40 @@
     <a href="https://github.com/wanikua"><img src="https://img.shields.io/github/stars/wanikua?style=for-the-badge&logo=github&label=%E4%B8%87%E6%B0%91%E6%98%9F%E7%81%AB&color=E2B714&affiliations=OWNER" /></a>
 </p>
 
-<br/>
+```
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │                                                                     │
+  │   ╔══════════════╗                    ╔══════════════╗              │
+  │   ║ 🏯 天工开物  ║                    ║ 🏛️ AI 朝廷   ║              │
+  │   ╚══════════════╝                    ╚══════════════╝              │
+  │                                                                     │
+  │   自进化多智能体朝廷框架              一键部署七臣于 Discord        │
+  │   三省制衡，六部理事                  开箱即朝，附详尽图文          │
+  │   臣工可科举、可廷议、可武举          手把手教你登基                │
+  │   优者擢升，庸者贬黜                  不服者，抄家                  │
+  │                                                                     │
+  │   [Multi-Agent] [Self-Evolving]       [OpenClaw] [Discord]          │
+  │                                                                     │
+  ├─────────────────────────────────────────────────────────────────────┤
+  │                                                                     │
+  │   其余臣工                                                          │
+  │   ├── Quadrants ········· 四象限理事，治国先治事                    │
+  │   └── Become CEO ········ 朝廷西洋版，出海称 CEO                   │
+  │                                                                     │
+  └─────────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1" width="100%" />
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🏯 天工开物</h3>
-<p align="center">
-    <a href="https://github.com/wanikua/tiangong"><img src="https://img.shields.io/github/stars/wanikua/tiangong?style=for-the-badge&color=E2B714&label=%E2%AD%90" /></a>&ensp;
-    <a href="https://github.com/wanikua/tiangong"><img src="https://img.shields.io/github/forks/wanikua/tiangong?style=for-the-badge&color=444&label=%F0%9F%94%B1" /></a>
-</p>
-
-自进化多智能体朝廷框架。三省制衡，六部理事，臣工可科举、可廷议、可武举比试。优者擢升，庸者贬黜。
-
-`Multi-Agent` `Self-Evolving` `三省六部`
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🏛️ AI 朝廷</h3>
-<p align="center">
-    <a href="https://github.com/wanikua/boluobobo-ai-court-tutorial"><img src="https://img.shields.io/github/stars/wanikua/boluobobo-ai-court-tutorial?style=for-the-badge&color=E2B714&label=%E2%AD%90" /></a>&ensp;
-    <a href="https://github.com/wanikua/boluobobo-ai-court-tutorial"><img src="https://img.shields.io/github/forks/wanikua/boluobobo-ai-court-tutorial?style=for-the-badge&color=444&label=%F0%9F%94%B1" /></a>
-</p>
-
-一令部署七臣于 Discord，开箱即朝。附详尽图文，手把手教你登基。不服者，抄家。
-
-`OpenClaw` `Discord` `One-Click`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>其余臣工</strong></summary>
-<br/>
-
-| 项目 | 奏折 |
-|:--|:--|
-| [Quadrants](https://github.com/wanikua/quadrants) | 四象限理事，治国先治事 |
-| [Become CEO](https://github.com/wanikua/become-ceo) | 朝廷西洋版，出海称 CEO |
-
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1" width="100%" />
-
-<br/>
-
-<h3 align="center">🏆 功勋</h3>
+```
+  ══════════════════════ 🏆 功 勋 ══════════════════════
+```
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=wanikua&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
-<br/>
-
-<h3 align="center">📊 朝政数据</h3>
+```
+  ══════════════════════ 📊 朝政数据 ══════════════════════
+```
 
 <p align="center">
     <picture>
@@ -91,15 +65,13 @@
     </picture>
 </p>
 
-<br/>
-
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanikua&bg_color=00000000&color=E2B714&line=E2B714&point=FF6B00&area=true&area_color=E2B714&hide_border=true" width="95%" />
 </p>
 
-<br/>
-
-<h3 align="center">🐍 御蛇吞噬贡献图</h3>
+```
+  ═════════════════ 🐍 御蛇吞噬贡献图 ═════════════════
+```
 
 <p align="center">
     <picture>
@@ -109,22 +81,22 @@
     </picture>
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1" width="100%" />
-
-<br/>
-
-<h3 align="center">⚔️ 兵器谱</h3>
+```
+  ══════════════════════ ⚔️ 兵器谱 ══════════════════════
+```
 
 <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,nodejs,react,nextjs,tailwind,discord,github,docker,linux,vscode&titles=true" />
 </p>
 
-<br/>
+```
+
+           ╔══════════════════════════════════╗
+           ║  🍍 菠萝王朝 · 国祚绵长 · bug 永昌  ║
+           ╚══════════════════════════════════╝
+
+```
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=wanikua&label=%E4%B8%8A%E6%9C%9D%E4%BA%BA%E6%95%B0&color=E2B714&style=flat-square" />
 </p>
-
-<p align="center"><sub>🍍 菠萝王朝 · 国祚绵长 · bug 永昌</sub></p>
