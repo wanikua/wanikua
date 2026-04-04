@@ -5,18 +5,10 @@
 </p>
 
 <p align="center">
-    <strong>CS @ ETH Zurich</strong>&ensp;·&ensp;以代码治天下&ensp;·&ensp;以 AI 御群臣
-</p>
-
-<p align="center">
     <a href="https://danghuangshang.com"><img src="https://img.shields.io/badge/%F0%9F%8D%8D_%E5%BD%93%E7%9A%87%E4%B8%8A-danghuangshang.com-E2B714?style=for-the-badge" /></a>&ensp;
     <a href="https://github.com/wanikua?tab=followers"><img src="https://img.shields.io/github/followers/wanikua?style=for-the-badge&logo=github&label=%E8%87%A3%E6%B0%91&color=181717" /></a>&ensp;
     <a href="https://github.com/wanikua"><img src="https://img.shields.io/github/stars/wanikua?style=for-the-badge&logo=github&label=%E4%B8%87%E6%B0%91%E6%98%9F%E7%81%AB&color=E2B714&affiliations=OWNER" /></a>
 </p>
-
-<br/>
-
-> **设三省以议政，立六部以理事。一令既出，七臣奔走。**
 
 <br/>
 
